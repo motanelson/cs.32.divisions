@@ -1,1 +1,1 @@
-encapsulate many files in a distro file to python distro games
+data cs sin cos 32 division
